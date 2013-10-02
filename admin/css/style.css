@@ -1,0 +1,48 @@
+/* 
+    Document   : style
+    Created on : Sep 10, 2013, 11:49:12 AM
+    Author     : rzzaman
+    Description:
+    Purpose of the stylesheet follows.
+*/
+
+body{
+    margin: 0;
+    padding: 0;
+    background: #282828;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#wrap{
+    width: 990px;
+    margin: 0 auto;
+    background: #FFF;
+    padding: 15px 0 15px 0;
+}
+
+/****************** header *********************/
+
+#header{
+    height: 90px;
+    background: #c61e1e;
+    width: 950px;
+    margin: 0 auto;
+    margin-bottom: 10px
+}
+#navigation{
+    width: 950px;
+    margin: 0 auto;
+
+}
+/****************** footer *********************/
+
+#footer{
+    width: 950px;
+    height: 60px;
+    background: #262626;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: 0 auto;
+}

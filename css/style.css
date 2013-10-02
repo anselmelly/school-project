@@ -1,0 +1,49 @@
+/* 
+    Document   : style
+    Created on : Sep 10, 2013, 11:49:12 AM
+    Author     : rzzaman
+    Description:
+    Purpose of the stylesheet follows.
+*/
+
+body{
+    margin: 0;
+    padding: 0;
+    background: #282828;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#wrap{
+    width: 800px;
+    margin: 0 auto;
+    background: #FFF;
+    padding: 15px 0 15px 0;
+ }
+ 
+ /****************** header *********************/
+ 
+ #header{
+     height: 90px;
+     background: #c61e1e;
+     width: 750px;
+     margin: 0 auto;
+     margin-bottom: 10px
+ }
+ #navigation{
+     width: 750px;
+     border: 1px solid red;
+     float: left;
+ }
+ /****************** footer *********************/
+ 
+ #footer{
+     width: 750px;
+     height: 60px;
+     background: #262626;
+     margin-bottom: 20px;
+     border: 1px solid black;
+     margin: 0 auto;
+ }
+
